@@ -5,7 +5,7 @@ import random
 from kivy.clock import Clock
 
 
-class circle1(Widget):
+class circle12(Widget):
     pass
 
 class inner_circle(Widget):
